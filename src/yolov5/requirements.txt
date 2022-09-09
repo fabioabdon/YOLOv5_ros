@@ -1,8 +1,8 @@
-# pip install -r requirements.txt
+# pip3 install -r requirements.txt
 
 # Base ----------------------------------------
+numpy==1.19.4
 matplotlib>=3.2.2
-numpy>=1.19.3
 opencv-python>=4.1.2
 Pillow>=7.1.2
 PyYAML>=5.3.1
